@@ -1,0 +1,112 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "title": "Call of Duty: Black Ops 7",
+      "genre": ["Action", "First Person", "Shooter"],
+      "platforms": ["PS4", "PC", "Xbox"],
+      "releaseYear": 2025,
+      "coverImage": "https://i.gadgets360cdn.com/large/BO7-MULTIPLAYER-OVERVIEW-TOUT_1_1758611400913.jpg",
+      "averageRating": 5.5,
+      "description": "Call of Duty: Black Ops 7 is the latest chapter in Treyarch's beloved subseries, and it arrives with more ambition than ever before. The campaign plunges players into a web of Cold War-era conspiracies, rogue AI programs, and shadow government operations that span multiple continents and decades. Narrative twists keep you guessing right up until the credits roll, and the set pieces are nothing short of spectacular. Multiplayer remains the beating heart of the experience — refined movement mechanics, a massive map pool, and a weapons customization system so deep it could swallow entire weekends. New game modes shake up the familiar formula without alienating veterans of the series. Zombies makes its triumphant return with an entirely original storyline, new buildable traps, and a progression system that rewards dedicated players with cosmetics and lore drops. Cross-play and cross-progression are fully supported across all platforms, making it easier than ever to squad up with friends regardless of hardware. While some may argue the annual release cadence leaves little room for revolutionary change, Black Ops 7 represents a confident, polished, and thoroughly entertaining entry that knows exactly what it wants to be — and delivers it with precision."
+    },
+    {
+      "id": 2,
+      "title": "FC 26",
+      "genre": ["Sport", "Simulator"],
+      "platforms": ["PS4", "PC", "Xbox", "PS5"],
+      "releaseYear": 2025,
+      "coverImage": "https://9588947a.delivery.rocketcdn.me/wp-content/uploads/2025/11/EA-Sports-FC-26-01-920x520.jpg",
+      "averageRating": 6.5,
+      "description": "EA Sports FC 26 continues the franchise's evolution following its split from the FIFA brand, and this installment represents perhaps the most mechanically refined football simulation the series has ever produced. The new HyperMotion 3 engine captures player movement with stunning realism — weight shifts, off-balance shots, and contested headers all feel grounded and physical in a way previous entries never quite managed. Career Mode has been dramatically overhauled, introducing a dynamic media reputation system, boardroom negotiations, and youth academy scouting that finally rivals what fans have been requesting for years. Ultimate Team remains the commercial centerpiece, stuffed with seasonal content, new player evolutions, and cooperative squad-building mechanics. Volta Football returns with fresh courts and a charismatic street football culture that provides a welcome change of pace from the main modes. Women's football coverage has been expanded significantly, with more leagues, authentic commentary, and dedicated career paths. On the pitch, FC 26 rewards skilled players who invest time in learning its systems — through-balls, positional play, and defensive shape all matter far more than button mashing. It is not a perfect game, and longtime fans will spot areas that still need attention, but as an overall package it is the most complete football simulation available today."
+    },
+    {
+      "id": 3,
+      "title": "Elden Ring",
+      "genre": ["Action RPG", "Open World"],
+      "platforms": ["PC", "PS5", "Xbox"],
+      "releaseYear": 2022,
+      "coverImage": "https://motionbgs.com/media/1783/elden-ring.jpg",
+      "averageRating": 4.7,
+      "description": "Elden Ring is FromSoftware's most ambitious project to date, and the collaboration with author George R.R. Martin has produced one of the richest, most mysterious worlds in gaming history. The Lands Between is a vast open landscape of haunted castles, poison swamps, towering peaks, and underground civilizations — each region hand-crafted with a density of secrets that rewards patient, curious exploration. Combat retains the deliberate, punishing rhythm that defines the Soulsborne lineage, but opens up dramatically with mounted horseback battles, stealth mechanics, and a summon system that lets players call spirit allies into battle. Boss encounters are legendary in their scale and creativity — from towering demigods to intimate duels with tragic adversaries whose stories unfold entirely through item descriptions and environmental storytelling. The lore is deliberately obscure, layered with fragmented history that the community has spent years piecing together, and that collaborative discovery is part of what makes Elden Ring a cultural phenomenon rather than just a video game. Multiplayer allows both cooperative and competitive interactions in organic, unexpected ways. The game is not without friction — some areas feel underdeveloped and late-game pacing can drag — but these are minor complaints against a backdrop of genuinely extraordinary achievement. Elden Ring redefined what open-world design could look like."
+    },
+    {
+      "id": 4,
+      "title": "Red Dead Redemption 2",
+      "genre": ["Action", "Adventure", "Open World"],
+      "platforms": ["PC", "PS4", "Xbox"],
+      "releaseYear": 2018,
+      "coverImage": "https://tse4.mm.bing.net/th/id/OIP.mAoODChTycWc5bkn9w5dQgHaEo?cb=thfvnextfalcon&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "averageRating": 6.7,
+      "description": "Red Dead Redemption 2 is Rockstar Games at the absolute peak of their craft — a sweeping, cinematic open-world epic that follows Arthur Morgan, an outlaw wrestling with loyalty, mortality, and morality as the age of the American frontier draws to a close. The world of the game is staggering in its fidelity and attention to detail. Wolves hunt in coordinated packs. Rivers swell after rainfall. NPCs remember your past actions and react accordingly. Every town, homestead, and wilderness trail feels like it existed long before you arrived and will continue long after you leave. Arthur himself is one of the most fully realized protagonists in the history of the medium — his arc across the game's hundred-plus hours is genuinely moving, shaped by the choices you make and the relationships you nurture. The gang is a richly written ensemble, and quieter moments around the camp fire often rival the bombastic story missions for emotional impact. Combat is weighty and physical, with a cover system and Dead Eye ability that makes shootouts feel like scenes from a classic Western film. Red Dead Online, while uneven at launch, has matured into a worthwhile multiplayer companion. This is a game that demands patience and rewards it enormously — a true generational achievement in interactive storytelling."
+    },
+    {
+      "id": 5,
+      "title": "God of War Ragnarök",
+      "genre": ["Action", "Adventure"],
+      "platforms": ["PS5", "PS4", "PC"],
+      "releaseYear": 2022,
+      "coverImage": "https://4kwallpapers.com/images/wallpapers/god-of-war-ragnarok-kratos-atreus-2022-games-playstation-4-3840x2160-8636.jpg",
+      "averageRating": 4.8,
+      "description": "God of War Ragnarök is a rare sequel that not only matches its predecessor but expands on it in nearly every dimension. Kratos and Atreus are pushed to their limits as Fimbulwinter grips the Nine Realms and the prophesied apocalypse draws near. The game opens up the mythological world considerably — players visit all nine realms this time, each with distinct visual identities, ecosystems, and lore that feel genuinely alive. Combat has been deepened with new weapon movesets, shield types, and a runic ability system that allows for near-limitless build experimentation. The Draupnir spear is a late-game addition that fundamentally changes how fights feel, and boss encounters across the board are among the most creative and technically impressive in the action genre. Atreus receives substantially more narrative focus this time, and his arc is emotionally complex in ways that elevate the entire story. The voice performances — particularly Christopher Judge as Kratos — are exceptional throughout. Companion character Freya undergoes a fascinating transformation that adds genuine moral weight to the conflict. Side quests feel meaningfully connected to the main story rather than being simple filler. The game is long, generous, and consistently surprising. Ragnarök is an ambitious, heartfelt blockbuster that stands as one of the finest action-adventure games ever made."
+    },
+    {
+      "id": 6,
+      "title": "Cyberpunk 2077",
+      "genre": ["Action RPG", "Open World"],
+      "platforms": ["PC", "PS5", "Xbox"],
+      "releaseYear": 2020,
+      "coverImage": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/05/cyberpunk-2077-key-art.jpg",
+      "averageRating": 4.2,
+      "description": "Cyberpunk 2077 has one of the most complicated stories in gaming history — a disastrous launch that overshadowed what was, at its core, a genuinely compelling vision of a dystopian future. Night City is an extraordinary achievement in world-building: a vertical, dense, neon-drenched megalopolis that rewards exploration at every level, from gleaming corporate towers to the chaotic underbelly of Pacifica. You play as V, a customizable mercenary who becomes entangled with the digital ghost of legendary rockstar Johnny Silverhand, voiced with charismatic menace by Keanu Reeves. The central story is gripping, morally complex, and features some of the most memorable supporting characters in recent RPG history — particularly Judy, Panam, and River. After years of patches, the 2.0 update and Phantom Liberty expansion fundamentally overhauled the skill tree, enemy AI, police system, and vehicle combat, transforming the game into something that finally matches the original promise. Phantom Liberty itself is an outstanding spy thriller expansion set in a new district with a self-contained story of genuine quality. Cyberpunk 2077 today is a vastly different product from what launched in 2020 — and in its current state, it earns its place among the great open-world RPGs of its generation. It just took an unusually long road to get there."
+    },
+    {
+      "id": 7,
+      "title": "Hollow Knight",
+      "genre": ["Metroidvania", "Indie"],
+      "platforms": ["PC", "Nintendo Switch", "PS4", "Xbox"],
+      "releaseYear": 2017,
+      "coverImage": "https://tse4.mm.bing.net/th/id/OIP.YPTcG0_omufxqyWqBuD2WgHaEK?cb=thfvnextfalcon&w=1920&h=1080&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "averageRating": 4.9,
+      "description": "Hollow Knight is a masterclass in indie game design — a hauntingly beautiful, hand-drawn metroidvania developed by the three-person team at Team Cherry that punches so far above its weight class it embarrasses many big-budget productions. Set in Hallownest, a vast underground kingdom of collapsed civilizations and infected insects, the game builds its world entirely through environmental storytelling. There is no exposition dump, no lengthy tutorial — you simply descend into the darkness and begin to learn. The art direction is stunning, with each region having a distinct atmosphere rendered in expressive black ink and muted color washes. Combat is tight and demanding, requiring precise timing, pattern recognition, and resource management through the Soul system. The boss roster is exceptional — each encounter introduces new mechanics and escalating pressure, and optional dream boss fights push skill requirements to genuinely brutal extremes. What makes Hollow Knight truly special is its pacing and sense of discovery. New areas reveal themselves organically, and the map system — which requires purchasing a cartographer's notes — creates a genuine sense of navigating unknown territory. The soundtrack by Christopher Larkin is achingly melancholic and perfectly matched to the world's quiet tragedy. Four free content updates added hours of additional bosses, lore, and a full new quest line. At its price point, Hollow Knight offers an almost unparalleled ratio of quality to cost."
+    },
+    {
+      "id": 8,
+      "title": "The Witcher 3: Wild Hunt",
+      "genre": ["Action RPG", "Open World"],
+      "platforms": ["PC", "PS5", "PS4", "Xbox", "Nintendo Switch"],
+      "releaseYear": 2015,
+      "coverImage": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0914/TvcIHkYqqln1RGbaFqBeuFp6.jpg",
+      "averageRating": 4.9,
+      "description": "The Witcher 3: Wild Hunt is a landmark achievement in role-playing game design — a sprawling, morally complex open world that set the standard for the genre upon its release and has continued to influence game development ever since. You play as Geralt of Rivia, a professional monster hunter searching for his adopted daughter Ciri across a war-torn continent inspired by Slavic folklore and European medieval history. The world is breathtaking in its variety — sun-scorched ruins, stormy coastal cliffs, dense fairy-tale forests, and plague-ridden swamplands each feel distinct and authentically inhabited. Quests are where the game truly separates itself from its peers. Even minor side quests contain fully voiced, morally ambiguous narratives with consequences that ripple forward in unexpected ways. The Bloody Baron questline remains one of the finest pieces of storytelling in the medium, built entirely out of a series of optional missions. Geralt's relationships with Triss and Yennefer are written with rare emotional intelligence. Combat, while divisive, rewards investment in signs, potions, and gear management. Two major expansions — Hearts of Stone and Blood and Wine — are widely considered some of the best DLC ever released, each the length of a full game in their own right. The 2022 next-generation update brought ray tracing, new content inspired by the Netflix adaptation, and significant quality-of-life improvements. A decade on, The Witcher 3 remains essential."
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "gameId": 3,
+      "author": "SomeGamer",
+      "rating": 5,
+      "title": "A brutal masterpiece",
+      "body": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quis exercitationem officiis unde eius porro enim ullam impedit reprehenderit ab, provident quidem aut quisquam eaque sit deleniti. Adipisci maxime odit sunt.",
+      "pros": ["Gorgeous world", "Deep lore"],
+      "cons": ["Steep learning curve"],
+      "hoursPlayed": 120,
+      "recommended": true,
+      "createdAt": "2024-03-01T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "gameId": 4,
+      "author": "NoobMaster69",
+      "rating": 4.6,
+      "title": "One of the best games ever made",
+      "body": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quis exercitationem officiis unde eius porro enim ullam impedit reprehenderit ab, provident quidem aut quisquam eaque sit deleniti. Adipisci maxime odit sunt.",
+      "pros": ["Realistic Graphics", "Great Story"],
+      "cons": ["Take so much time to travel from one place to another"],
+      "hoursPlayed": 150,
+      "recommended": false,
+      "createdAt": "2023-07-01T09:00:00Z"
+    }
+  ]
+}

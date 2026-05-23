@@ -1,0 +1,19 @@
+.App {
+  max-width: 1200px;
+  margin: auto;
+}
+:root {
+  --font-display: "Rajdhani", sans-serif;
+  --font-body: "Finlandica Headline", sans-serif;
+}
+
+body {
+  font-family: var(--font-body);
+}
+
+h1,
+h2,
+h3,
+.card-title {
+  font-family: var(--font-display);
+}

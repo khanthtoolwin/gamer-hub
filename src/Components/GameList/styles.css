@@ -1,0 +1,107 @@
+/* Grid layout for the games list */
+.game-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1.5rem;
+  padding: 2rem;
+}
+
+/* Card */
+.card {
+  min-height: 300px;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  background: #1a1a2e;
+  border: 1px solid #2a2a4a;
+  border-radius: 12px;
+  overflow: hidden;
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+}
+
+/* Cover image */
+.game-cover {
+  position: relative;
+}
+
+.game-cover img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  display: block;
+}
+
+.game-cover h2 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: 0;
+  padding: 0.5rem 0.75rem;
+  font-size: 1rem;
+  color: #fff;
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.85));
+}
+
+/* Genre tags */
+.genre {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  list-style: none;
+  margin: 0;
+  padding: 0 0.75rem;
+}
+
+.genre li {
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 0.25rem 0.6rem;
+  border-radius: 999px;
+  background: #2d2d5e;
+  color: #a9a9ff;
+}
+
+/* Platforms */
+.platform-section {
+  padding: 0 0.75rem 0.75rem;
+  font-size: 0.85rem;
+  color: #aaa;
+}
+
+.platform-section strong {
+  display: block;
+  margin-bottom: 0.4rem;
+  color: #ccc;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.platform-section ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: inline;
+}
+
+.platform-section ul li {
+  display: inline;
+}
+
+.platform-section ul li::after {
+  content: ", ";
+}
+
+.platform-section ul:last-child li::after {
+  content: "";
+}
