@@ -28,7 +28,7 @@ let router = createBrowserRouter([
         element: <GameDetail />,
       },
       {
-        path: "/add-review",
+        path: "games/:id/add-review",
         element: <ReviewForm />,
       },
     ],

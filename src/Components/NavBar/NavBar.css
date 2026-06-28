@@ -9,7 +9,7 @@ nav section a {
   font-size: 32px;
   text-decoration: none;
   font-weight: 600;
-  color: #000;
+  color: #4f39f6;
 }
 
 nav .nav-links {
@@ -19,8 +19,8 @@ nav .nav-links {
 
 nav .nav-links a {
   text-decoration: none;
-  color: #000;
+  color: #ccc;
 }
 nav .nav-links a.active {
-  color: blue;
+  color: #4f39f6;
 }

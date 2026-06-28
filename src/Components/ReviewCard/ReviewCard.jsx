@@ -4,54 +4,51 @@ import { FaThumbsDown } from "react-icons/fa6";
 import { ImCheckmark } from "react-icons/im";
 const ReviewCard = ({ review }) => {
   return (
-    <div className="review-card">
-      <div className="review-header">
-        <div>
+    <div className="flex flex-col gap-5 rounded-lg border border-slate-700 p-4">
+      <div className="flex justify-between text-xs text-slate-300">
+        <div className="flex flex-col gap-0.5">
           <h4>{review.author}</h4>
-          <small>
+          <p>
             {review.hoursPlayed} hours played ·{" "}
             {new Date(review.createdAt).toLocaleDateString()}
-          </small>
+          </p>
         </div>
-        <div>
-          <h5>Rating: {review.rating}/5</h5>
-        </div>
+        <h5>Rating: {review.rating}/5</h5>
       </div>
-      <div className="review-body">
-        <h4>{review.title}</h4>
-        <small>{review.body}</small>
-        <div className="pros-cons">
-          <div>
-            <FaThumbsUp style={{ color: "#32c91e", marginRight: 4 }} />
-            <b style={{ color: "#32c91e" }}>Pros</b>
-            <ul>
+
+      <div className="text-sm">
+        <h4 className="font-semibold">{review.title}</h4>
+        <p className="mb-5 text-slate-400">{review.body}</p>
+
+        <div className="grid grid-cols-3">
+          <div className="flex flex-col gap-1">
+            <div className="flex items-start gap-1 text-green-400">
+              <FaThumbsUp />
+              <p>Pros</p>
+            </div>
+            <ul className="mx-5 list-disc">
               {review.pros.map((pro, i) => (
                 <li key={i}>{pro}</li>
               ))}
             </ul>
           </div>
-          <div>
-            <FaThumbsDown style={{ color: "#c41f1f", marginRight: 4 }} />
-            <b style={{ color: "#c41f1f" }}>Cons</b>
-            <ul>
+          <div className="flex flex-col gap-1">
+            <div className="flex items-center gap-1 text-red-500">
+              <FaThumbsDown />
+              <p>Cons</p>
+            </div>
+            <ul className="mx-5 list-disc">
               {review.cons.map((con, i) => (
                 <li key={i}>{con}</li>
               ))}
             </ul>
           </div>
         </div>
-        <div
-          style={{
-            display: "flex",
-            alignItems: "center",
-            gap: 6,
-            color: "#32c91e",
-          }}
-        >
+        <div className="mt-4 flex items-start gap-1 text-green-500">
           {review.recommended && (
             <>
               <ImCheckmark />
-              <h4 style={{ margin: 0 }}>Recommended</h4>
+              <h4>Recommended</h4>
             </>
           )}
         </div>
